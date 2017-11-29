@@ -1,4 +1,15 @@
-﻿using System;
+﻿/*
+ * Dieses Programm ist ein kleines Wort-Ratespiel
+ * 
+ * Der Benutzer kann ein zu erratendes Wort eingeben,
+ * worauf der Spieler das Wort durch Einsetzen der enthaltenen
+ * Buchstaben erraten kann. Nach einigen Fehlversuchen 
+ * ist die Raterunde beendet..
+ * 
+ * 
+ * */
+
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -96,7 +107,7 @@ namespace HangMan
                 }
                 else
                 {
-                    Console.Write("\n\n Schade.. ");                                        
+                    Console.Write("\n\n Schade.. \n\n");                                        
                 }
                 
 
