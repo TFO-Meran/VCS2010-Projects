@@ -7,6 +7,12 @@
  * ist die Raterunde beendet..
  * 
  * 
+ * TODO:
+ * 
+ * - Die Eingabe des zu erratenden Wortes sollte geheim ( "*****..") erfolgen.
+ * - Der erste und der letzte Buchstabe des geheimen Wortes sollte Angezeigt werden
+ * - die Auswertung der Eingabe sollte modularisiert werden (z.B: Prozedur "auswerten(..)")
+ * 
  * */
 
 using System;
@@ -73,7 +79,7 @@ namespace HangMan
                         }
                     }
 
-                    // ..schreibt das aktuelle Loesungswort an die vorgegeben Position..
+                    // ..schreibt das aktuelle Loesungswort an die vorgegebe Position..
                     cursorx = Console.CursorLeft;
                     cursory = Console.CursorTop;
                     Console.SetCursorPosition(loesungswort_x, loesungswort_y);
