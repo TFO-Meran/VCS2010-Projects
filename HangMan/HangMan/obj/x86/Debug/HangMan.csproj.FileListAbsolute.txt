@@ -1,4 +1,0 @@
-P:\Documents\Schule\C# Projects\2017-18\HangMan\HangMan\bin\Debug\HangMan.exe
-P:\Documents\Schule\C# Projects\2017-18\HangMan\HangMan\bin\Debug\HangMan.pdb
-P:\Documents\Schule\C# Projects\2017-18\HangMan\HangMan\obj\x86\Debug\HangMan.exe
-P:\Documents\Schule\C# Projects\2017-18\HangMan\HangMan\obj\x86\Debug\HangMan.pdb
